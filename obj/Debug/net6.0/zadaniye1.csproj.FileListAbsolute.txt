@@ -1,0 +1,15 @@
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\bin\Debug\net6.0\zadaniye1.exe
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\bin\Debug\net6.0\zadaniye1.deps.json
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\bin\Debug\net6.0\zadaniye1.runtimeconfig.json
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\bin\Debug\net6.0\zadaniye1.dll
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\bin\Debug\net6.0\zadaniye1.pdb
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\zadaniye1.csproj.AssemblyReference.cache
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\zadaniye1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\zadaniye1.AssemblyInfoInputs.cache
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\zadaniye1.AssemblyInfo.cs
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\zadaniye1.csproj.CoreCompileInputs.cache
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\zadaniye1.dll
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\refint\zadaniye1.dll
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\zadaniye1.pdb
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\zadaniye1.genruntimeconfig.cache
+C:\Users\xriss\Desktop\massyva1homework\zadaniye1\obj\Debug\net6.0\ref\zadaniye1.dll
